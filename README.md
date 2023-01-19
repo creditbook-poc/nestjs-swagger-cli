@@ -89,6 +89,9 @@ This is just basic setup, NestJS and OpenAPI offers a lot customisation.
 
 [NestJS OpenAPI CLI Plugin](https://docs.nestjs.com/openapi/cli-plugin)
 
+Note:
+   Sample NestJS project, configured with swagger cli plugin added in repo, you can just clone it and good to go, start building APIs, this will create docs automatically.
+
 Thank you
 
 Email: MianKhubaib63@gmail.com
